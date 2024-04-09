@@ -1,0 +1,45 @@
+{
+  "short_name": "To do",
+  "name": "To do list",
+  "description": "Icon images",
+  "icons": [
+    {
+      "src": "48.png",
+      "sizes": "48x48",
+      "type": "/public/image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "64.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "512.png",
+      "sizes": "512x512",
+      "type": "/public/image/png",
+      "purpose": "any"
+    }
+   
+  ],
+  "start_url": "/",
+  "homepage": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "/",
+  "background_color": "#FFFFFF"
+}
